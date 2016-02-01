@@ -1,0 +1,5 @@
+*.bak
+*.dat
+*.dat.idx
+*.idx
+bak/*
